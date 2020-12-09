@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Methods {
 
-    //3. Написать метод вычисляющий выражение a * (b + (c / d)) и возвращающий результат,где a, b, c, d – входные параметры этого метода;
+    //3. Написать метод вычисляющий выражение a * (b + (c / d)) и возвращающий результат,где a, b, c, d – входные параметры этого метода, имеющие тип floa;
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
